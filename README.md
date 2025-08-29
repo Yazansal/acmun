@@ -18,6 +18,9 @@ Explain how the website or project can be used.
 Contributing:
 Contributions are welcome, but please contact the authors before making major changes.
 
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
 Copyright:
 © 2025 Yazan Salameh and Adnan Halaweh
 All rights reserved.
