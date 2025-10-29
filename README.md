@@ -25,4 +25,4 @@ Copyright:
 © 2025 Yazan Salameh and Adnan Halaweh
 All rights reserved.
 
-Unauthorized copying, distribution, modification, or use of this project is strictly prohibited without prior written permission from the authors.
+Unauthorized copying, distribution, modification, or use of this project is strictly prohibited without prior written permission from the authors
