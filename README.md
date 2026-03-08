@@ -3,9 +3,7 @@ Project Title
 Description:
 This project was created by Yazan Salameh and Adnan Halaweh. It is intended for personal and educational use.
 
-Features:
-- Add your project features here.
-- Example: Fast, simple, and responsive.
+
 
 Installation:
 1. Clone the repository.
